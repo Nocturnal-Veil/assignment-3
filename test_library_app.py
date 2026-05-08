@@ -14,7 +14,7 @@ from selenium.webdriver.support import expected_conditions as EC
 # CONFIG
 # ─────────────────────────────────────────────────────────────
 
-BASE_URL = "http://13.63.56.101:5001"
+BASE_URL = "http://13.53.171.202:5001"
 WAIT_TIMEOUT = 15
 
 
